@@ -1,3 +1,4 @@
+<?php
 
 function getWrongAnswers(int $N, string $C): string {
   // Write your code here
